@@ -38,4 +38,4 @@ Here is the link [JsonServer](kips90.github.io/Intro-to-github/)
     - +254987634790938
 
 ## License
-Licenced under the [MT-licence]() Copyright (c) 2022 **Kelvin Kipchumba
+Licenced under the [MT-licence](https://github.com/kips90/ReadmeIntro/blob/master/license) Copyright (c) 2022 **Kelvin Kipchumba
