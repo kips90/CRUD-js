@@ -16,5 +16,10 @@
     #### Requirement
     Json Server - 
 
+## BDD
+As a user :
+    - I will able to view todos in my browser.
+    - Fetch a specific TODO through an input from the form.
     
+
 
