@@ -33,4 +33,7 @@
     - JS
     - JSON Server
 
+## Support/Contact Details
+    - koechkelvin97@gmail.com
+    - +254987634790938
 
