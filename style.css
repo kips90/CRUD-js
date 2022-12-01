@@ -1,0 +1,11 @@
+/* #todo_container
+{
+    border: 1px solid red;
+} */
+
+.single-todo
+{
+    background-color: rgb(197, 197, 197);
+    padding: 10px;
+    margin-bottom: 10px;
+}

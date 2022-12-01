@@ -1,0 +1,26 @@
+{
+   "todos":[
+    {
+        "id":1,
+        "title": "Intro to JSON server",
+        "description":"JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub",
+        "completed": false,
+        "userId":1
+    },
+    {
+        "id":2,
+        "title": "JS fuction",
+        "description":"JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub",
+        "completed": true,
+        "userId":3
+    },
+    {
+        "id":3,
+        "title": "Standup",
+        "description":"JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub",
+        "completed": false,
+        "userId":6
+    }
+   ],
+   "users":[]
+}
