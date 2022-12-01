@@ -17,12 +17,15 @@
     Json Server - 
 
 ## BDD
-As a user :
+    As a user :
     - I will able to view todos in my browser.
     - Fetch a specific TODO through an input from the form.
 
 ## Live Link
-The application is deployed in Github Page
-Here is the link [Json-Server](kips90.github.io/Intro-to-github/)
+    The application is deployed in Github Page
+    Here is the link [Json-Server](kips90.github.io/Intro-to-github/)
 
+## Bugs
+    There is no bugs in the project.
+    
 
