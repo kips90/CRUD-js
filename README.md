@@ -3,3 +3,5 @@
 #### By Kelvin 
 
 ## Project Description
+    The application showcases how to use JSON server with JS.
+
