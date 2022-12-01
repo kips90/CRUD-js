@@ -22,8 +22,8 @@
     - Fetch a specific TODO through an input from the form.
 
 ## Live Link
-    The application is deployed in Github Page
-    Here is the link [Json-Server](kips90.github.io/Intro-to-github/)
+The application is deployed in Github Page
+Here is the link [JsonServer](kips90.github.io/Intro-to-github/)
 
 ## Bugs
     There is no bugs in the project.
@@ -37,3 +37,5 @@
     - koechkelvin97@gmail.com
     - +254987634790938
 
+## License
+Licenced under the [MT-licence]() Copyright (c) 2022 **Kelvin Kipchumba
