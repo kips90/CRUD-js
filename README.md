@@ -27,5 +27,10 @@
 
 ## Bugs
     There is no bugs in the project.
-    
+
+## Technologies Used
+    - HTML and CSS
+    - JS
+    - JSON Server
+
 
