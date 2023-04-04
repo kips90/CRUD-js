@@ -1,5 +1,5 @@
 # JSON Server
-#### 01/12/2011
+#### 01/12/2021
 #### By Kelvin 
 
 ## Project Description
@@ -19,11 +19,13 @@
 ## BDD
     As a user :
     - I will able to view todos in my browser.
+    - Update and DElete Todos.
     - Fetch a specific TODO through an input from the form.
 
 ## Live Link
 The application is deployed in Github Page
-Here is the link [JsonServer](kips90.github.io/Intro-to-github/)
+ - Here is the frontend link [Frontend](https://kips90.github.io/CRUD-js/)
+ - Here is the backend link [Backend](https://todolist-ae0w.onrender.com/todos)
 
 ## Bugs
     There is no bugs in the project.
@@ -38,4 +40,5 @@ Here is the link [JsonServer](kips90.github.io/Intro-to-github/)
     - +254987634790938
 
 ## License
-Licenced under the [MT-licence](https://github.com/kips90/ReadmeIntro/blob/master/license) Copyright (c) 2022 **Kelvin Kipchumba
+Licenced under the [MT-licence](https://github.com/kips90/CRUD-js/blob/master/license) 
+ - Copyright (c) 2022 **Kelvin Kipchumba
