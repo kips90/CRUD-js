@@ -1,5 +1,5 @@
 // Fetch ALL TODOS
-fetch("http://localhost:3000/todos/")
+fetch("https://todolist-ae0w.onrender.com/todos/")
 .then(function (response){
    return response.json()
 })
@@ -28,7 +28,7 @@ fetch("http://localhost:3000/todos/")
 function editTodo(id)
 {
 
-    fetch(`http://localhost:3000/todos/${id}`)
+    fetch(`https://todolist-ae0w.onrender.com/todos/${id}`)
     .then(function (response){
         return response.json()
     })
@@ -76,7 +76,7 @@ function editTodo(id)
 
             console.log("title "+title+" desc "+description+ " completed "+completed+" user "+userid)
         
-            fetch(`http://localhost:3000/todos/${todo.id}`, {
+            fetch(`https://todolist-ae0w.onrender.com/todos/${todo.id}`, {
                 method:'PATCH',
                 body: JSON.stringify({
                     "title":title,
@@ -104,7 +104,7 @@ function editTodo(id)
 function deleteTodo(id)
 {
     console.log("Delete todo called ", id)
-    fetch("http://localhost:3000/todos/"+id, {
+    fetch("https://todolist-ae0w.onrender.com/todos/"+id, {
         method:'DELETE',
       })
     .then(function (response){
@@ -131,7 +131,7 @@ searchForm.addEventListener("submit", function(event){
 
 function search(searchId)
 {
-    fetch(`http://localhost:3000/todos/${searchId}`)
+    fetch(`https://todolist-ae0w.onrender.com/todos/${searchId}`)
     .then(function (response){
         return response.json()
     })
@@ -172,7 +172,7 @@ addForm.addEventListener("submit", function(event){
 
     console.log("title "+title+" desc "+description+ " completed "+completed+" user "+userid)
    
-    fetch("http://localhost:3000/todos/", {
+    fetch("https://todolist-ae0w.onrender.com/todos/", {
         method:'POST',
         body: JSON.stringify({
             "title":title,
