@@ -2,7 +2,7 @@
   "todos": [
     {
       "title": "Testing32",
-      "description": "yrehsthgyuk32",
+      "description": "Updated",
       "completed": "true",
       "id": 1,
       "userId": 7
@@ -16,13 +16,6 @@
     },
     {
       "id": 3,
-      "title": "Standup",
-      "description": "JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub",
-      "completed": false,
-      "userId": 6
-    },
-    {
-      "id": 4,
       "title": "Standup",
       "description": "JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. It can be in a README on GitHub",
       "completed": false,
